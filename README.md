@@ -27,7 +27,7 @@
     <a href="https://vtex.com/" target="_blank" rel="noreferrer">
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VTEX_Logo.svg/305px-VTEX_Logo.svg.png"
-            alt="aws" width="40" height="40" />
+            alt="vtex" height="40" />
     </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
