@@ -25,6 +25,11 @@
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"
             width="40" height="40" />
     </a>
+    <a href="https://vtex.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyAYT2ejGb5udoOlmW32WyVxzpf-utYH6DGt0tTynL&s"
+            alt="aws" width="40" height="40" />
+    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -110,7 +115,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" />
     </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack" width="40" height="40" />
