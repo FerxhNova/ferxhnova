@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **e-commerce, B2B, B2C, B2B2C and PunchOut Solutions**
 
-- 📫 How to reach me **ffernsndocambray@gmail.com**
+- 📫 How to reach me **ffernandocambray@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
