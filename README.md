@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Cambray</h1>
-<h3 align="center">A developer focused on e-commerce</h3>
+<h3 align="center">A developer focused on ecommerce solutions <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferxhnova&label=Profile%20views&color=0e75b6&style=flat" alt="ferxhnova" /> </p>
-
-- 🌱 I’m currently learning **BigCommerce**
 
 - 💬 Ask me about **e-commerce, B2B, B2C, B2B2C and PunchOut Solutions**
 
